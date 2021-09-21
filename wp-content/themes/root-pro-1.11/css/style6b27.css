@@ -1,0 +1,179 @@
+html body{background:url(../../../uploads/2016/02/leathersmiths-bg-pale.jpg) no-repeat top center fixed #FFF}
+#page-overlay{background-image:url(../images/preloader/loader1.gif)}
+#site-navigation li a{font-size:14px;font-family:'PT Sans';font-weight:400;color:#333333;text-transform:uppercase}
+.search-icon a{font-size:14px}
+#site-navigation > ul > li > a:hover, #site-navigation > ul > li.current-menu-item > a, #site-navigation > ul > li.current-menu-ancestor > a, .search-icon a{color:#000000 !important}
+#site-navigation > ul > li > a:hover, #site-navigation > ul > li.current-menu-item > a, #site-navigation > ul > li.current-menu-ancestor > a{border-color:#000000 !important}
+#site-branding{margin:0px 0px 0px 0px}
+.right-header{margin:15px 0px 0px 0px}
+body{ font-size:14px;font-family:'PT Sans';font-weight:400;font-style:normal;color:#440404}
+h1{ font-size:30px;font-family:'PT Sans';font-weight:400;font-style:normal;;color:#330707;text-transform:uppercase}
+h2{ font-size:28px;font-family:'PT Sans';font-weight:400;font-style:normal;;color:#330707;text-transform:uppercase}
+h3{ font-size:24px;font-family:'PT Sans';font-weight:400;font-style:normal;;color:#330707;text-transform:uppercase}
+h4{ font-size:22px;font-family:'PT Sans';font-weight:400;font-style:normal;;color:#333333;text-transform:uppercase}
+h5{ font-size:20px;font-family:'PT Sans';font-weight:400;font-style:normal;;color:#333333;text-transform:uppercase}
+h6{ font-size:18px;font-family:'PT Sans';font-weight:400;font-style:normal;;color:#333333;text-transform:uppercase}
+.blog-comments a{color:#440404;}
+#site-navigation.main-navigation ul ul a{ font-size:14px;font-family:'PT Sans';font-weight:400;font-style:normal;}
+.social-icon a{ color:;}
+.social-icon a:hover{ color:;}
+#top-footer{ background-color:#272727;color:#EEEEEE}
+#top-footer a{color:#999999}
+.footer-title{  font-size:18px;font-family:'PT Sans';font-weight:400;font-style:normal;;color:#FFFFFF;text-transform:uppercase}
+#bottom-footer{background-color:#000000;color:}
+#ap-map-canvas{height:300px}
+#site-navigation > ul > li > a:hover, 
+#site-navigation > ul > li.current-menu-item > a, 
+#site-navigation > ul > li.current-menu-ancestor > a, 
+.search-icon a,
+.color-bold, 
+.message-title span,
+.cta-banner-btn a,
+a,
+.social-icon a:hover,
+#site-navigation ul li ul.sub-menu > li:hover > a, 
+#site-navigation ul li ul.sub-menu > li.current-menu-item > a, 
+#site-navigation ul li ul.sub-menu > li.current-menu-ancestor > a,
+.blog-comments a:hover,
+.service-title a:hover,
+.feature-title a:hover,
+.widget-social-icons li a,
+.oops,
+.error404 .not_found,
+#blog .blog-title a:hover,
+.woocommerce .star-rating:before, .woocommerce .star-rating span:before,
+.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover,
+.woocommerce div.product .woocommerce-tabs ul.tabs li a,
+.woocommerce .woocommerce-message:before,
+.woocommerce .woocommerce-info:before,
+.woocommerce .woocommerce-error:before,
+.copyright a:hover {
+    color:#5f432e}
+
+
+a:hover, .search-icon a:hover,
+.feature-read-more:hover, 
+.info-read-more:hover,
+.widget-social-icons li a:hover,
+.widget a:hover, .widget a:hover:before{
+    color:#563c29}
+
+#main-slider .bx-pager-item a:hover, 
+#main-slider .bx-pager-item a.active, 
+#message-slider .bx-controls .bx-pager-item a:hover, 
+#message-slider .bx-controls .bx-pager-item a.active, 
+.project-block-wrap .bx-controls .bx-pager-item a:hover, 
+.project-block-wrap .bx-controls .bx-pager-item a.active,
+.service-overlay a,
+.cta-banner-btn a:hover,
+.blog-overlay a,
+.blog-date,
+.project-content-wrap,
+.newsletter-submit,
+.caption-read-more:hover,
+.main-navigation ul ul,
+.page_header_wrap,
+.edit-link a,
+#respond input#submit,
+.tagcloud a,
+.nav-previous a, .nav-next a,
+#go-top,
+#middle-footer,
+.error404 .error-num .num,
+.ap_call_to_action .ap_call_to_action_button,
+.ap_toggle .ap_toggle_title:after,
+.horizontal .ap_tab_group,
+.vertical .ap_tab_group,
+#top .nav-btn,
+.js-ready #nav,
+.woocommerce ul.products li.product a.add_to_cart_button, .woocommerce ul.products li.product a.added_to_cart,
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, 
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, 
+.woocommerce input.button.alt, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle, 
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content, 
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle, 
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content, 
+.woocommerce div.product .woocommerce-tabs ul.tabs li:hover, 
+.woocommerce div.product .woocommerce-tabs ul.tabs li:hover a, 
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+nav.woocommerce-MyAccount-navigation ul li a,
+.edit-link a:hover {
+    background-color:#5f432e}
+
+.edit-link a:hover{
+    color: #fff;
+}
+
+.service-overlay a:hover,
+.blog-overlay a:hover,
+.newsletter-submit:hover,
+.tagcloud a:hover,
+.ap_call_to_action .ap_call_to_action_button:hover,
+.horizontal .ap_tab_group .tab-title.active, 
+.horizontal .ap_tab_group .tab-title.hover,
+.vertical .tab-title.active, 
+.vertical .tab-title:hover,
+#top .nav-btn:hover,
+nav.woocommerce-MyAccount-navigation ul li:hover a,
+nav.woocommerce-MyAccount-navigation ul li.is-active a {
+    background-color:#563c29}
+
+.cta-banner-btn a,
+.feature-block .feature-icon,
+.feature-read-more, 
+.info-read-more,
+.testimonail-content-wrap,
+.testimonial-thumb.active:after,
+.newsletter-submit,
+.caption-read-more:hover,
+.horizontal.ap_tab_wrap,
+.vertical.ap_tab_wrap,
+.woocommerce ul.products li.product a.add_to_cart_button, .woocommerce ul.products li.product a.added_to_cart,
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, 
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, 
+.woocommerce div.product .woocommerce-tabs ul.tabs li:last-child, .woocommerce div.product .woocommerce-tabs ul.tabs li:hover, 
+.woocommerce div.product .woocommerce-tabs ul.tabs li:hover a, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, 
+.woocommerce div.product .woocommerce-tabs .panel, .woocommerce div.product .woocommerce-tabs ul.tabs li:last-child,
+.woocommerce div.product .woocommerce-tabs ul.tabs li, .woocommerce-tabs.wc-tabs-wrapper,
+.woocommerce .woocommerce-message,
+.woocommerce .woocommerce-info,
+.woocommerce .woocommerce-error {
+    border-color:#5f432e}
+
+.feature-read-more:hover, 
+.info-read-more:hover{
+    border-color:#563c29}
+
+.blog-date:hover:after{
+    box-shadow:0 0 0 1px #5f432e}
+
+.main-navigation ul ul:before{
+    border-color:transparent transparent #5f432e transparent;
+}
+
+.comments-title:after{
+    border-color:#5f432e;
+}
+
+.search-box{ background:rgba(95,67,46,0.7)}
+
+/* On single images that are right aligned, this stops the image beind hard up against the edge of the page */
+.wp-caption {
+    margin-right: 26px;
+}
+/* Removes blank space between title bar and page content */
+.page_header_wrap
+    margin-bottom: 0;
+}
+
+/* Add margin to Contact Us widget, so shadow doesn't overlay title bar */
+.secondary-left .widget {
+    padding: 10px 25px;
+    margin-top: 10px;
+}
+.feature-block .feature-icon {
+    padding: 0px;
+}
+.feature-block .feature-icon img {
+    height: 100%;
+}
