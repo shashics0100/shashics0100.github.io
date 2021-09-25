@@ -1,1 +1,0 @@
-# shashics0100.github.io
